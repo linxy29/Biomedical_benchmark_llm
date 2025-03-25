@@ -4,4 +4,7 @@ Rapid advancements in large language models (LLMs) offer transformative potentia
 
 The rapid growth and diverse applications of LLMs underscore the need for comprehensive evaluation frameworks. Here we presents a benchmarking platform specifically tailored for biomedical tasks, which we aim to maintain and periodically update to cover increasingly more models and more benchmark tasks. 
 
+The latest benchmarking results are hosted and publicly available via [link](https://sites.google.com/view/biomedbenchmark/home).
+
+
 ![Overview of benchmarking pipeline.](./images/pipeline.png)
